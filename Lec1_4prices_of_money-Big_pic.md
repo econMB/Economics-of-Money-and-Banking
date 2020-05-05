@@ -1,16 +1,16 @@
 ## 第一讲 The four prices of money 货币的四种价格 -- The big picture 课程总览
 
 
-### 问1: 在诸多经济思想学派的背景下，Perry Mehrling宣扬的是什么？
-答1: P.M. 认为央行有存在的意义，它的的作用是为整个经济系统提供约束。这个看法改进了Bagehot在1873年关于中央银行作用的定义。Bagehot认为央行应该lend freely at a high rate against good security (央行应该以高利率(低价格)不限制的购买银行的优质证券)。而在如今，这样的定义并不合适。P.M.的新书的副标题是<How the Fed Became the Dealer of Last Resort> (美联储如何成为最后贷款人的中介)，他希望通过这个副标题来提醒我们，为了应对现代的经济形势，需要调整更新Bagehot对央行的的定义。
+### 在诸多经济思想学派的背景下，Perry Mehrling宣扬的是什么？
+P.M. 认为央行有存在的意义，它的的作用是为整个经济系统提供约束。这个看法改进了Bagehot在1873年关于中央银行作用的定义。Bagehot认为央行应该lend freely at a high rate against good security (央行应该以高利率(低价格)不限制的购买银行的优质证券)。而在如今，这样的定义并不合适。P.M.的新书的副标题是<How the Fed Became the Dealer of Last Resort> (美联储如何成为最后贷款人的中介)，他希望通过这个副标题来提醒我们，为了应对现代的经济形势，需要调整更新Bagehot对央行的的定义。
 
 现代金融理论认为：金融市场可以自发保持良好的运转，央行不对其产生影响，P.M.觉得这样的认识是完全错误的。P.M.不认为金融市场能自发的完美的运作，金融市场在运行中会遇到不少问题，特别是流动性(liquidity)的问题，银行正是为了解决这些问题而存在。这里的问题，不是指那些经济学里常见的问题，比如信息不对称(asymmetric information)等，而是指一些特殊的货币性的问题(monetary problems)。
 
 同时，介于他所读到的具有说服力的央行理论的文章，不是出自于英国央行(the Bank of England BoE)—拥有悠久的央行传统，就是出自于国际清算银行(The Bank for International Settlements BIS)—世界层面上银行们的银行，他为目前不少央行在盲目的操作货币政策而感到担忧。至于经济学学术界发表的央行理论，他觉得没有什么新内容。在他看来，这些学术界的学者们，在对传统问题的争论中，被拖到了如今全新的经济环境里。
 
 
-### 问2: 那么Perry Mehrling到底属于哪一派？
-答2: 他不认为自己属于saltwater或者freshwater的分类，抑或是货币主义(monetarist)、凯恩斯主义(keynesian)之类的学派。他只认可自己创立的the money view思想流。他认为这个思想流的基础是一系列先驱们的思想，他正是站在这些先驱的肩膀上，继承与发扬央行理论。
+### 那么Perry Mehrling到底属于哪一派？
+他不认为自己属于saltwater或者freshwater的分类，抑或是货币主义(monetarist)、凯恩斯主义(keynesian)之类的学派。他只认可自己创立的the money view思想流。他认为这个思想流的基础是一系列先驱们的思想，他正是站在这些先驱的肩膀上，继承与发扬央行理论。
 
 这个思想流里主要有两条分支，一条是美国的，从他的英雄Allan Young开始。美国的央行成立于Allan那个时代，中央银行在当时是一个新概念，(美国)历史上没有任何相关的记录或者经验来参考。所以自从成立央行以后，人们开始思考央行的作用以及如何更好地发展央行。这就催生了Allan Young，Alvin Hansen以及Edward Shaw，他们美国历史上三代货币经济学(monetary economics)的思想家。其后，顺着这条路线，是Hyman Minsky，金融危机有时也被称作Minsky时刻。P.M.所宣扬的，正是这些先驱们的思想的延续。
 
@@ -25,8 +25,8 @@ P.M.学过不少金融，他深入学习了解过Fisher Black。但现代金融�
 这门课实质上是传统央行理论观点与现代金融观点的对话。在课中他尝试撮合这两个看似矛盾的思想，并希望能在这个过程中搓出新经济学思想的火花。这门课中不会有熟悉的关于凯恩斯学派与货币学派争论的讨论，因为它不存在于the money view中。这门课的核心，是大家不太熟悉的传统央行理论和现代金融理论的对话与对立。
 
 
-### 问3: Perry Mehrling如何学习和了解货币与央行的？
-答3: P.M.从未在货币市场(money market)交易过。总有人以为他是华尔街的难民之类的，然而并不是。他的认识和了解都是学术方面的，他所有的知识都是纸面知识，比如Stigum或者Financial Times，但却不包括学术期刊。他阅读的学术资料多是关于现代经济和现代金融的历史。推荐的书<The Money Interest and The Public Interest>是美国货币思想史，<Fisher Black and The Revolutionary Idea of Finance>是现代金融发展的历史，这些书是他讲解货币经济学的思想基础。为了更好的了解the money view，本课的阅读材料中会有Bagehot，Hawtry，Shaw等。也许这些名字对大家还很陌生，但他希望通过这门课程，能让人们学习、了解以及像他一样欣赏这些央行思想家。
+### Perry Mehrling如何学习和了解货币与央行的？
+P.M.从未在货币市场(money market)交易过。总有人以为他是华尔街的难民之类的，然而并不是。他的认识和了解都是学术方面的，他所有的知识都是纸面知识，比如Stigum或者Financial Times，但却不包括学术期刊。他阅读的学术资料多是关于现代经济和现代金融的历史。推荐的书<The Money Interest and The Public Interest>是美国货币思想史，<Fisher Black and The Revolutionary Idea of Finance>是现代金融发展的历史，这些书是他讲解货币经济学的思想基础。为了更好的了解the money view，本课的阅读材料中会有Bagehot，Hawtry，Shaw等。也许这些名字对大家还很陌生，但他希望通过这门课程，能让人们学习、了解以及像他一样欣赏这些央行思想家。
 
 
 ### 历史 vs 现实
