@@ -1,8 +1,7 @@
-# 第一讲 The four prices of money 货币的四种价格
-The big picture 课程总览
+### 第一讲 The four prices of money 货币的四种价格 -- The big picture 课程总览
 
 
-## 问1: 在诸多经济思想学派的背景下，Perry Mehrling宣扬的是什么？
+#### 问1: 在诸多经济思想学派的背景下，Perry Mehrling宣扬的是什么？
 答1: P.M. 认为央行有存在的意义，它的的作用是为整个经济系统提供约束。这个看法改进了Bagehot在1873年关于中央银行作用的定义。Bagehot认为央行应该lend freely at a high rate against good security (央行应该以高利率(低价格)不限制的购买银行的优质证券)。而在如今，这样的定义并不合适。P.M.的新书的副标题是<How the Fed Became the Dealer of Last Resort> (美联储如何成为最后贷款人的中介)，他希望通过这个副标题来提醒我们，为了应对现代的经济形势，需要调整更新Bagehot对央行的的定义。
 
 现代金融理论认为：金融市场可以自发保持良好的运转，央行不对其产生影响，P.M.觉得这样的认识是完全错误的。P.M.不认为金融市场能自发的完美的运作，金融市场在运行中会遇到不少问题，特别是流动性(liquidity)的问题，银行正是为了解决这些问题而存在。这里的问题，不是指那些经济学里常见的问题，比如信息不对称(asymmetric information)等，而是指一些特殊的货币性的问题(monetary problems)。
