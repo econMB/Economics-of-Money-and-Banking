@@ -1,5 +1,5 @@
 # 第一讲 The four prices of money 货币的四种价格
-## The big picture 课程总览
+The big picture 课程总览
 
 
 ## 问1: 在诸多经济思想学派的背景下，Perry Mehrling宣扬的是什么？
